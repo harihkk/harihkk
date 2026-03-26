@@ -1,69 +1,145 @@
 
-<h3 align="center">
-  <samp>&gt; Hey there, I'm <b>Hari Krishna Kancharla</b></samp>
-</h3>
+<div align="center">
 
-<p align="center">
-  <samp>ML Engineer from Boston, MA<br>
-  I build production LLM systems, RAG pipelines, and make models run faster without breaking them
-  </samp>
-</p>
+![header](https://capsule-render.vercel.app/api?type=slice&color=0:1a1a2e,100:16213e&height=200&section=header&text=Hari%20Krishna%20Kancharla&fontSize=40&fontColor=e2e8f0&animation=fadeIn&fontAlignY=35&desc=ML%20Engineer%20%C2%B7%20Boston%2C%20MA&descSize=16&descAlignY=55&descAlign=50&rotate=13)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hari-krishna-kancharla/">LinkedIn</a> &bull;
-  <a href="mailto:kancharla.ha@northeastern.edu">Email</a> &bull;
-  <a href="https://harihkk.github.io">Portfolio</a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=64FFDA&center=true&vCenter=true&width=500&lines=production+llm+systems;rag+pipelines+%26+retrieval;distributed+training+%26+optimization;making+models+work+at+scale)](https://git.io/typing-svg)
 
----
+<br>
 
-I'm an ML engineer who's worked across the full stack of machine learning, from training large language models with distributed setups to building the pipelines that get them into production. I care more about whether something works reliably at scale than whether it looks good in a demo.
+<a href="https://www.linkedin.com/in/hari-krishna-kancharla/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="mailto:kancharla.ha@northeastern.edu"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+<a href="https://harihkk.github.io"><img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 
-Right now I'm at **Community Dreams Foundation** building causal inference frameworks and ETL pipelines. Before that, I spent over a year doing research on retrieval systems and LLM fine-tuning, and built forecasting systems at **Nevina Infotech** that served 50K+ predictions daily.
+</div>
 
-I studied Data Analytics at **Northeastern University** (M.Sc., 2025) with a focus on machine learning.
+<br>
 
----
+## `> whoami`
 
-#### What I work with
+ML Engineer who builds things that work in production, not just in notebooks. Currently at **Community Dreams Foundation** doing causal inference and ETL. Previously shipped a forecasting system at **Nevina Infotech** serving 50K+ daily predictions. Studied Data Analytics at **Northeastern University** (M.Sc. 2025) with a focus on ML.
 
-**The LLM stuff:** RAG pipelines, LoRA/QLoRA fine-tuning, LLaMA-2, Mistral, GPT-4, LangChain, LangGraph, vLLM, FlashAttention, FSDP, quantization (INT8/4-bit), ONNX, TensorRT
+<br>
 
-**The ML stuff:** PyTorch, TensorFlow, Scikit-learn, XGBoost, LightGBM, Hugging Face, SHAP, LIME, time series (ARIMA, Prophet)
+## `> ls projects/`
 
-**The infra stuff:** Docker, Kubernetes, AWS, Azure, MLflow, Weights & Biases, DVC, GitHub Actions, FastAPI, Spark, Kafka, Pinecone, FAISS
+<div align="center">
 
-**Languages:** Python, SQL, R, C++, Bash
+<a href="https://github.com/harihkk/AskRC">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=harihkk&repo=AskRC&theme=react&bg_color=0d1117&border_color=1a1a2e&icon_color=64ffda&title_color=e2e8f0&description_color=8b949e" width="47%" />
+</a>
+&nbsp;
+<a href="https://github.com/harihkk/GenBI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=harihkk&repo=GenBI&theme=react&bg_color=0d1117&border_color=1a1a2e&icon_color=64ffda&title_color=e2e8f0&description_color=8b949e" width="47%" />
+</a>
 
----
+<br><br>
 
-#### Some things I've built
+<a href="https://github.com/harihkk/Prompt-Budd">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=harihkk&repo=Prompt-Budd&theme=react&bg_color=0d1117&border_color=1a1a2e&icon_color=64ffda&title_color=e2e8f0&description_color=8b949e" width="47%" />
+</a>
+&nbsp;
+<a href="https://github.com/harihkk/self-healing-pipeline">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=harihkk&repo=self-healing-pipeline&theme=react&bg_color=0d1117&border_color=1a1a2e&icon_color=64ffda&title_color=e2e8f0&description_color=8b949e" width="47%" />
+</a>
 
-| | |
-|---|---|
-| **[AskRC](https://github.com/harihkk/AskRC)** | RAG chatbot that scrapes, indexes, and retrieves university research computing docs. Azure Cognitive Search + GPT-4 with bias detection and answer validation. Built with Airflow, Docker, MLflow. |
-| **[GenBI](https://github.com/harihkk/GenBI)** | Upload a dataset, ask questions in plain English, get back charts or tables or answers. LangChain agents classify your query and route it to the right handler. FastAPI + Plotly + Firebase. |
-| **[Prompt-Budd](https://github.com/harihkk/Prompt-Budd)** | Chrome extension that works across ChatGPT, Claude, Gemini, DeepSeek, Grok. Scores your prompts, detects PII, suggests better versions, recommends which LLM to use. Has an MCP server too. |
-| **LLM Training Optimization** | FSDP distributed training hitting 90% GPU utilization on multi-GPU setups. FlashAttention-2, dynamic batch packing, INT8 quantization + TensorRT for 5x serving throughput. |
-| **Credit Risk Forecasting** | Ensemble framework (ARIMA + Prophet + XGBoost) for predicting defaults. SHAP/LIME for regulatory interpretability. Bayesian uncertainty quantification for risk estimation. |
+</div>
 
----
+<br>
 
-#### Experience timeline
+## `> cat skills.txt`
+
+<div align="center">
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**Languages & ML**
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,r,cpp&perline=5" />
+
+</td>
+<td valign="top" width="33%">
+
+**GenAI & LLMs**
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask&perline=5" />
+
+`LangChain` `LangGraph` `RAG` `vLLM`
+`LoRA` `FSDP` `Hugging Face`
+
+</td>
+<td valign="top" width="33%">
+
+**Cloud & MLOps**
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,github&perline=5" />
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+`Scikit-learn` `XGBoost`
+`LightGBM` `SHAP` `LIME`
+
+</td>
+<td valign="top">
+
+`Pinecone` `FAISS`
+`Spark` `Kafka`
+
+</td>
+<td valign="top">
+
+`MLflow` `W&B` `DVC`
+`GitHub Actions` `Airflow`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+## `> history`
 
 ```
-2025 - now       Data Research Analyst    Community Dreams Foundation
-2024 - 2025      Researcher               Advised by Prof. C.S. Preetham Reddy
-2022 - 2023      ML Engineer              Nevina Infotech, India
+Aug 2025 - now     Data Research Analyst     Community Dreams Foundation
+May 2022 - Jun 23  ML Engineer              Nevina Infotech
 ```
+
+**Northeastern University** - M.Sc. Data Analytics Engineering, 2025
+**KL University** - B.Tech. Electronics & Communication, 2022
+
+<br>
+
+## `> stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=harihkk&show_icons=true&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=c9d1d9&include_all_commits=true&count_private=true" height="170" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harihkk&layout=compact&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=c9d1d9&langs_count=6" height="170" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=harihkk&theme=tokyonight_duo&hide_border=true&background=0D1117&stroke=1a1a2e&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA" width="60%" />
+
+</div>
+
+<br>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harihkk&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=00000000&include_all_commits=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harihkk&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=00000000&langs_count=6" height="165"/>
-</p>
+<div align="center">
+  <samp>open to ml engineer roles - let's connect</samp>
 
-<p align="center">
-  <samp>Looking for ML Engineer roles. Open to chat.</samp>
-</p>
+  <br><br>
+
+  ![](https://komarev.com/ghpvc/?username=harihkk&color=1a1a2e&style=flat-square&label=visitors)
+</div>
+
+![footer](https://capsule-render.vercel.app/api?type=slice&color=0:1a1a2e,100:16213e&height=120&section=footer&rotate=13)
