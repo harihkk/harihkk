@@ -15,7 +15,7 @@
 
 ML engineer in Boston. I build production LLM systems, RAG pipelines, and make models work reliably at scale.
 
-Currently at **Community Dreams Foundation** doing causal inference and data pipelines. Previously shipped forecasting systems at **Nevina Infotech** serving 50K+ daily predictions.
+Currently at **Community Dreams Foundation** doing causal inference and data pipelines. Previously shipped forecasting systems at **Nevina Infotech** by serving 50K+ daily predictions.
 
 **Northeastern University** &ndash; M.Sc. Data Analytics, ML concentration (2025)
 
