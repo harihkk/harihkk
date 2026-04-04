@@ -1,47 +1,66 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,50:0f172a,100:0ea5e9&height=240&section=header&text=Hari%20Krishna%20Kancharla&fontColor=e2e8f0&fontSize=42&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20Engineer&descSize=18&descAlignY=60"/>
+<h1>Hari Krishna Kancharla</h1>
+<p>AI Systems Engineer</p>
 
-<br>
-
-<a href="https://www.linkedin.com/in/hari-krishna-kancharla/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:kancharla.ha@northeastern.edu">
-<img src="https://img.shields.io/badge/Email-c14438?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://harihkk.github.io">
-<img src="https://img.shields.io/badge/Portfolio-0f172a?style=flat-square&logo=googlechrome&logoColor=white"/>
-</a>
+<a href="https://www.linkedin.com/in/hari-krishna-kancharla/">LinkedIn</a> |
+<a href="mailto:kancharla.ha@northeastern.edu">Email</a> |
+<a href="https://harihkk.github.io">Portfolio</a>
 
 </div>
 
 <br>
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="240"/>
+## Work
 
-### Profile
+AI Systems Analyst via Handshake  
+Building and evaluating LLM systems, data pipelines, and scalable AI applications focused on reliability and deployment
 
-I build production LLM systems that work in real environments, not demos.
+Community Dreams Foundation  
+Causal inference systems and large scale data pipelines
 
-Currently an AI Systems Analyst via Handshake working on LLM evaluation, data pipelines, and scalable AI systems with a focus on reliability and deployment.
-
-Previously worked on causal inference systems and data pipelines at Community Dreams Foundation. Built forecasting systems at Nevina Infotech serving over 50K predictions per day.
+Nevina Infotech  
+Forecasting systems serving over 50K predictions per day
 
 <br>
 
-### Experience Focus
+## Focus
 
 LLM systems  
 RAG pipelines  
 Model evaluation  
-Inference optimization  
+Inference systems  
 Data pipelines  
-System reliability  
 
 <br>
 
-### Education
+## Projects
+
+AskRC  
+RAG system for research computing docs using Azure Cognitive Search and GPT 4 with validation and bias detection
+
+GenBI  
+Natural language analytics system that converts queries into charts, tables, or text
+
+Prompt Budd  
+Extension that evaluates prompts, detects PII, and improves prompt quality across LLM tools
+
+Self Healing Pipeline  
+ML system that detects anomalies and recovers automatically
+
+<br>
+
+## Stack
+
+Python PyTorch TensorFlow Docker Kubernetes AWS Azure FastAPI Flask  
+
+LangChain LangGraph RAG Hugging Face vLLM LoRA QLoRA FSDP FlashAttention  
+
+Pinecone FAISS Spark Kafka MLflow W&B XGBoost Scikit learn SQL  
+
+<br>
+
+## Education
 
 M.Sc. Data Analytics Engineering  
 Northeastern University  
@@ -49,51 +68,4 @@ Northeastern University
 
 B.Tech Electronics and Communication Engineering  
 KL University  
-2018 to 2022  
-
-<br>
-
-### Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,kubernetes,aws,azure,fastapi,flask,github" />
-
-</div>
-
-<div align="center">
-
-<code>LangChain</code> <code>LangGraph</code> <code>RAG</code> <code>Hugging Face</code> <code>vLLM</code> <code>LoRA</code> <code>QLoRA</code> <code>FSDP</code> <code>FlashAttention</code>  
-<code>Pinecone</code> <code>FAISS</code> <code>Spark</code> <code>Kafka</code> <code>MLflow</code> <code>W&B</code> <code>XGBoost</code> <code>Scikit-learn</code> <code>SQL</code>
-
-</div>
-
-<br>
-
----
-
-<br>
-
-### Selected Work
-
-**AskRC**  
-RAG system for university research computing documentation using Azure Cognitive Search and GPT 4 with validation and bias detection. Airflow orchestration.  
-
-**GenBI**  
-Natural language analytics system that converts queries into charts tables or text using LangChain agents and Plotly.  
-
-**Prompt Budd**  
-Cross platform extension that evaluates prompts detects PII and improves prompt quality across major LLM tools.  
-
-**Self Healing Pipeline**  
-ML based pipeline that detects anomalies and automatically recovers from failures.  
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,50:0f172a,100:0ea5e9&height=120&section=footer"/>
-</div>
+2018 to 2022
