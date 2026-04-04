@@ -15,11 +15,13 @@
 
 ML engineer in Boston. I build production LLM systems, RAG pipelines, and make models work reliably at scale.
 
-Currently at **Community Dreams Foundation** doing causal inference and data pipelines. Previously shipped forecasting systems at **Nevina Infotech** by serving 50K+ daily predictions.
+Currently working as an **AI Systems Analyst via Handshake**, building and evaluating production-grade LLM systems, data pipelines, and scalable AI applications with a focus on reliability and real-world deployment.
 
-**Northeastern University** &ndash; M.Sc. Data Analytics, ML concentration (2025)
+Previously at **Community Dreams Foundation**, where I worked on causal inference and scalable data pipelines. Before that, shipped forecasting systems at **Nevina Infotech**, serving 50K+ daily predictions.
 
-**KL University** &ndash; B.Tech. ECE (2022)
+**Northeastern University** – M.Sc. Data Analytics, ML concentration (2025)
+
+**KL University** – B.Tech. ECE (2022)
 
 <br clear="both">
 
@@ -41,26 +43,22 @@ Currently at **Community Dreams Foundation** doing causal inference and data pip
 
 ### Projects
 
-<a href="https://github.com/harihkk/AskRC"><b>AskRC</b></a> &nbsp;&ndash;&nbsp; RAG chatbot for university research computing docs. Azure Cognitive Search + GPT-4 with bias detection and answer validation. Orchestrated with Airflow.
-<br>
+<a href="https://github.com/harihkk/AskRC"><b>AskRC</b></a> &nbsp;&ndash;&nbsp; RAG chatbot for university research computing docs. Azure Cognitive Search + GPT-4 with bias detection and answer validation. Orchestrated with Airflow.  
 <code>Python</code> <code>OpenAI</code> <code>Azure</code> <code>Airflow</code> <code>Streamlit</code>
 
 <br>
 
-<a href="https://github.com/harihkk/GenBI"><b>GenBI</b></a> &nbsp;&ndash;&nbsp; Upload a dataset, ask questions in English. Classifies queries into charts, tables, or text answers with LangChain agents and Plotly.
-<br>
+<a href="https://github.com/harihkk/GenBI"><b>GenBI</b></a> &nbsp;&ndash;&nbsp; Upload a dataset, ask questions in English. Classifies queries into charts, tables, or text answers with LangChain agents and Plotly.  
 <code>Python</code> <code>FastAPI</code> <code>LangChain</code> <code>Plotly</code> <code>Firebase</code>
 
 <br>
 
-<a href="https://github.com/harihkk/Prompt-Budd"><b>Prompt-Budd</b></a> &nbsp;&ndash;&nbsp; Chrome extension across ChatGPT, Claude, Gemini, DeepSeek, Grok. Scores prompts, detects PII, suggests improvements. Includes MCP server.
-<br>
+<a href="https://github.com/harihkk/Prompt-Budd"><b>Prompt-Budd</b></a> &nbsp;&ndash;&nbsp; Chrome extension across ChatGPT, Claude, Gemini, DeepSeek, Grok. Scores prompts, detects PII, suggests improvements. Includes MCP server.  
 <code>JavaScript</code> <code>FastAPI</code> <code>Gemini</code> <code>Groq</code> <code>MCP</code>
 
 <br>
 
-<a href="https://github.com/harihkk/self-healing-pipeline"><b>self-healing-pipeline</b></a> &nbsp;&ndash;&nbsp; Data pipeline with ML-powered anomaly detection that automatically identifies and recovers from failures.
-<br>
+<a href="https://github.com/harihkk/self-healing-pipeline"><b>self-healing-pipeline</b></a> &nbsp;&ndash;&nbsp; Data pipeline with ML-powered anomaly detection that automatically identifies and recovers from failures.  
 <code>Python</code> <code>ML</code> <code>Anomaly Detection</code>
 
 <br>
