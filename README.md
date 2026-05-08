@@ -15,10 +15,6 @@
 
 ML engineer in Boston. I build production LLM systems, RAG pipelines, and make models work reliably at scale.
 
-Currently working as an AI Systems Analyst via Handshake, building and evaluating production grade LLM systems, data pipelines, and scalable AI applications with a focus on reliability and real world deployment.
-
-Previously at Community Dreams Foundation, where I worked on causal inference and scalable data pipelines. Before that, shipped forecasting systems at Nevina Infotech, serving 50K+ daily predictions.
-
 M.Sc. Data Analytics Engineering at Northeastern University 2023 to 2025
 
 B.Tech Electronics and Communication Engineering at KL University 2018 to 2022
