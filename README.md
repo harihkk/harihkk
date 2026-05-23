@@ -37,13 +37,13 @@ I build AI systems around LLMs, retrieval, agents, tools, and reliability. I car
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" bgcolor="#0B1020">
       <h3><a href="https://github.com/harihkk/surf-agentic-browser">Surf</a></h3>
       <p><strong>Autonomous browser agent</strong> that turns natural-language goals into Playwright actions.</p>
       <p><strong>Hard parts:</strong> browser state, tool calls, bad actions, loops, provider fallback.</p>
       <p><code>FastAPI</code> <code>Playwright</code> <code>WebSockets</code> <code>Groq</code> <code>Gemini</code> <code>Ollama</code></p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" bgcolor="#0B1020">
       <h3>AskRC</h3>
       <p><strong>Production-style RAG platform</strong> for technical documentation and research workflows.</p>
       <p><strong>Hard parts:</strong> ingestion, retrieval quality, citation validation, answer checks.</p>
@@ -51,13 +51,13 @@ I build AI systems around LLMs, retrieval, agents, tools, and reliability. I car
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" bgcolor="#0B1020">
       <h3>Prompt-Budd</h3>
       <p><strong>Prompt optimization system</strong> with scoring, rewriting, PII detection, and MCP support.</p>
       <p><strong>Hard parts:</strong> real-time UX, safe rewriting, prompt quality feedback.</p>
       <p><code>Chrome Extension</code> <code>FastAPI</code> <code>MCP</code> <code>Gemini</code> <code>OpenAI</code></p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" bgcolor="#0B1020">
       <h3>GenBI</h3>
       <p><strong>Natural-language BI assistant</strong> that turns datasets into charts, tables, and answers.</p>
       <p><strong>Hard parts:</strong> routing analytical questions into reliable visual/data outputs.</p>
