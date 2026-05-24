@@ -1,64 +1,45 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/header.svg" alt="Hari Krishna Kancharla - Software and Applied AI" width="100%" />
+</p>
 
-# Hari Kancharla
+<p align="center">
+  <a href="https://harihkk.github.io">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/hari-kancharla/">LinkedIn</a> ·
+  <a href="https://harihkk.github.io/resume.pdf">Resume</a>
+</p>
 
-AI Software Engineer building reliable LLM systems, agentic workflows, RAG platforms, eval loops, and production AI infrastructure.
+I focus on bridging complex machine learning with clean, interactive software. I like building tools that make AI more useful, agentic, and reliable without making the experience feel heavy.
 
-[Portfolio](https://harihkk.github.io) · [LinkedIn](https://www.linkedin.com/in/hari-kancharla/) · [Surf Agent](https://github.com/harihkk/surf-agentic-browser)
+## Studio
 
-</div>
+**Core work**
 
----
+Applied AI projects with real engineering weight: browser agents, retrieval, prompt tooling, and analytics interfaces.
 
-I build AI systems around models, tools, retrieval, and reliability. The work I care about is the part after the demo: clean APIs, grounded answers, measurable retrieval, eval traces, latency, observability, and recovery from failure.
+- [Surf](https://github.com/harihkk/surf-agentic-browser): an autonomous browser agent that turns natural-language goals into Playwright actions.
+- [AskRC](https://github.com/harihkk/AskRC): a RAG and MLOps pipeline for research computing documentation.
+- [Prompt-Budd](https://github.com/harihkk/Prompt-Budd): prompt tooling for scoring, rewriting, PII checks, and MCP-backed workflows.
+- [GenBI](https://github.com/harihkk/GenBI): a natural-language analytics system for charts, tables, and answers.
 
-## Work
+**The sandbox**
 
-**Surf**
+My portfolio is where the work gets a little more visual: interaction design, motion, case studies, and experiments in how technical projects are presented.
 
-Autonomous browser agent that turns natural-language goals into Playwright actions.
+[Open the portfolio](https://harihkk.github.io)
 
-`FastAPI` `Playwright` `WebSockets` `Groq` `Gemini` `Ollama`
+## Current orbit
 
-[View project](https://github.com/harihkk/surf-agentic-browser)
+- Exploring lightweight fallbacks for agentic workflows.
+- Refining how AI tools explain what they are doing.
+- Building interfaces that make complex work feel calmer.
+- Keeping the line between useful automation and overbuilt magic honest.
 
-**AskRC**
+## Materials
 
-Production-style RAG platform for technical documentation and research workflows.
-
-`LangChain` `vector databases` `MLflow` `DVC` `Azure Search`
-
-**Prompt-Budd**
-
-Prompt optimization system with scoring, rewriting, PII detection, and MCP support.
-
-`Chrome Extension` `FastAPI` `MCP` `Gemini` `OpenAI`
-
-**GenBI**
-
-Natural-language BI assistant that turns datasets into charts, tables, and answers.
-
-`Python` `FastAPI` `LangChain` `Plotly` `Pandas`
-
-## Current Focus
-
-- Browser-agent reliability
-- RAG answer validation and citation checks
-- Eval traces for agent workflows
-- Production-style AI case studies
-
-## Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,typescript,java,kotlin,fastapi,spring,docker,kubernetes,aws,gcp,azure,postgres,redis,git,githubactions&theme=dark" alt="Python, TypeScript, Java, Kotlin, FastAPI, Spring, Docker, Kubernetes, AWS, GCP, Azure, Postgres, Redis, Git, GitHub Actions" />
-
-</div>
+Python · TypeScript · React · FastAPI · Spring Boot · LangChain · LangGraph · MCP · Playwright · Kubernetes · AWS · GCP · Azure
 
 ---
 
-<div align="center">
-
-Building AI systems that retrieve context, call tools, handle failure, validate outputs, and ship.
-
-</div>
+<p align="center">
+  <sub>Software, applied AI, and carefully built tools from Boston.</sub>
+</p>
