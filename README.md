@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Hari Krishna Kancharla - Software and Applied AI" width="100%" />
+  <img src="./assets/header.svg" alt="Hari Kancharla - AI/ML, SWE" width="100%" />
 </p>
 
 <p align="center">
