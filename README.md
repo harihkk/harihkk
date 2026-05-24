@@ -1,89 +1,64 @@
-<p align="center">
-  <img src="./assets/header.svg" alt="Hari Krishna Kancharla - AI Software Engineer" width="100%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <sub><strong>Morgan Stanley</strong> · <strong>1M+ daily Kubernetes requests</strong> · <strong>99.9% SLOs</strong></sub>
-</p>
+# Hari Kancharla
 
-<img src="./assets/divider.svg" alt="" width="100%" />
+AI Software Engineer building reliable LLM systems, agentic workflows, RAG platforms, eval loops, and production AI infrastructure.
 
-I build the systems layer around AI: retrieval, tool execution, inference services, observability, and failure recovery. My work starts where prototypes stop being demos and start becoming runtimes that need to be measured, deployed, monitored, and owned.
+[Portfolio](https://harihkk.github.io) · [LinkedIn](https://www.linkedin.com/in/hari-kancharla/) · [Surf Agent](https://github.com/harihkk/surf-agentic-browser)
 
-## FEATURED SYSTEMS
+</div>
 
-<sub>system_01</sub>
+---
 
-### [Surf](https://github.com/harihkk/surf-agentic-browser)
+I build AI systems around models, tools, retrieval, and reliability. The work I care about is the part after the demo: clean APIs, grounded answers, measurable retrieval, eval traces, latency, observability, and recovery from failure.
 
-Autonomous browser runtime that turns natural-language goals into Playwright actions.
+## Work
 
-Signal: stateful execution, loop detection, session recording, and Groq -> Gemini -> Ollama fallback.
+**Surf**
+
+Autonomous browser agent that turns natural-language goals into Playwright actions.
 
 `FastAPI` `Playwright` `WebSockets` `Groq` `Gemini` `Ollama`
 
-<sub>system_02</sub>
+[View project](https://github.com/harihkk/surf-agentic-browser)
 
-### [AskRC](https://github.com/harihkk/AskRC)
+**AskRC**
 
-RAG + MLOps pipeline for research computing documentation.
+Production-style RAG platform for technical documentation and research workflows.
 
-Built as a deployment path with ingestion, indexing, orchestration, tracking, and validation checkpoints.
+`LangChain` `vector databases` `MLflow` `DVC` `Azure Search`
 
-`Python` `Azure Search` `Airflow` `DVC` `MLflow` `Docker`
+**Prompt-Budd**
 
-<sub>system_03</sub>
+Prompt optimization system with scoring, rewriting, PII detection, and MCP support.
 
-### [Prompt-Budd](https://github.com/harihkk/Prompt-Budd)
+`Chrome Extension` `FastAPI` `MCP` `Gemini` `OpenAI`
 
-Prompt tooling for scoring, rewriting, PII checks, and MCP-backed workflows.
+**GenBI**
 
-Signal: quality feedback is moved into the operator workflow before model failures become user-visible.
+Natural-language BI assistant that turns datasets into charts, tables, and answers.
 
-`Chrome Extension` `FastAPI` `Gemini` `OpenAI` `Groq` `MCP`
+`Python` `FastAPI` `LangChain` `Plotly` `Pandas`
 
-<sub>system_04</sub>
+## Current Focus
 
-### [GenBI](https://github.com/harihkk/GenBI)
+- Browser-agent reliability
+- RAG answer validation and citation checks
+- Eval traces for agent workflows
+- Production-style AI case studies
 
-Natural-language analytics system for charts, tables, and answers.
+## Stack
 
-The useful part is separation: intent routing, data operations, visualization, and response synthesis remain inspectable.
+<div align="center">
 
-`FastAPI` `LangChain` `GPT-4o` `Plotly` `Pandas` `Firebase`
+<img src="https://skillicons.dev/icons?i=python,typescript,java,kotlin,fastapi,spring,docker,kubernetes,aws,gcp,azure,postgres,redis,git,githubactions&theme=dark" alt="Python, TypeScript, Java, Kotlin, FastAPI, Spring, Docker, Kubernetes, AWS, GCP, Azure, Postgres, Redis, Git, GitHub Actions" />
 
-## PRODUCTION SIGNAL
+</div>
 
-- **1M+ daily Kubernetes requests** across production AI platform services.
-- **99.9% availability SLOs** with CI/CD, observability, on-call, and service ownership.
-- **3.5x lower p95 inference latency** through batching, quantization, and ONNX/TensorRT deployment tuning.
+---
 
-## STACK TRACE
+<div align="center">
 
-**Languages / Frontend**
+Building AI systems that retrieve context, call tools, handle failure, validate outputs, and ship.
 
-Python · TypeScript · JavaScript · Kotlin · Java · React
-
-**Backend / APIs**
-
-FastAPI · Spring Boot · GraphQL · REST · WebSockets · microservices
-
-**AI / LLM Systems**
-
-RAG · agents · LangGraph · MCP · tool calling · eval loops · inference optimization
-
-**Infra / Signal**
-
-Kubernetes · Docker · AWS · GCP · Azure · GitHub Actions · Datadog · SLOs
-
-<img src="./assets/divider.svg" alt="" width="100%" />
-
-<p align="center">
-  <a href="https://harihkk.github.io">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/hari-kancharla/">LinkedIn</a> ·
-  <a href="https://harihkk.github.io/resume.pdf">Resume</a>
-</p>
-
-<p align="center">
-  <sub>Production AI systems, from retrieval and tools to runtime reliability.</sub>
-</p>
+</div>
